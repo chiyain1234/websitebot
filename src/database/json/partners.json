@@ -1,0 +1,20 @@
+{
+  "partners": [
+    {
+      "code": "513946525426",
+      "ownerID": "821696185647497256",
+      "icon": "https://xenonbot.xyz/logo.png",
+      "serverName": "XENON BOT",
+      "website": "https://xenonbot.xyz",
+      "description": "The best multipurpose discord bot to skill up and boost your discord server!"
+    },
+    {
+      "code": "539846116533",
+      "icon": "https://cdn.discordapp.com/avatars/593536295507329049/a_749102756637073ac917984c345d4d08.gif",
+      "ownerID": "593536295507329049",
+      "serverName": "TEST",
+      "website": "https://bot-list.tnhazem.repl.co/admin/partners",
+      "description": "TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST"
+    }
+  ]
+}
